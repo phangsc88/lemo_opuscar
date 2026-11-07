@@ -1,0 +1,8 @@
+from pathlib import Path
+import subprocess,shutil
+p=Path(__file__).parent;out=Path('/workspace/shared/downloads');out.mkdir(parents=True,exist_ok=True)
+dst=out/'SoulQuake_EP0_Stained_Glass_90s_1080p.mp4'
+cmd=['ffmpeg','-v','error','-y','-i',str(p/'soulquake-king-glass.mp4'),'-vf','scale=in_range=auto:out_range=limited,format=yuv420p','-c:v','libx264','-threads','3','-preset','fast','-crf','25','-maxrate','2500k','-bufsize','5000k','-profile:v','high','-level:v','4.1','-tag:v','avc1','-color_range','tv','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-c:a','copy','-t','90','-movflags','+faststart',str(dst)]
+subprocess.run(cmd,check=True)
+shutil.copy2(p/'soulquake-king.srt',out/'SoulQuake_EP0_Stained_Glass_90s.srt')
+print(dst,dst.stat().st_size,flush=True)

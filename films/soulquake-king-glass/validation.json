@@ -1,0 +1,26 @@
+{
+  "duration_seconds": 90,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "video_frames": 2160,
+  "codec": "H.264 / AAC",
+  "download_bytes": 19927228,
+  "browser_playback": {
+    "ended": true,
+    "width": 1920,
+    "height": 1080,
+    "duration": 90,
+    "error": null,
+    "frames": 2160,
+    "droppedFrames": 0
+  },
+  "narration_phonetic_passes": 27,
+  "narration_cues": 27,
+  "narration_check_note": "Tone-aware pronunciation and numeric token check; not exact-character transcript equality.",
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -1.9,
+  "full_decode_errors": 0
+}

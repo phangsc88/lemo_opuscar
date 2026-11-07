@@ -4,11 +4,12 @@ This repository imports the Lemo-Opuscar toolkit from [lemomo-ai/lemo-opuscar](h
 
 ## Our film source
 
+- [SoulQuake Episode 0 — Stained Glass](films/soulquake-king-glass/README.md): completed 90-second Mandarin stained-glass film, 1920×1080, with bilingual captions and an original organ/glass score.
 - [Artemis newsreel](films/artemis-newsreel/README.md): completed 30-second Mandarin newsreel, 1920×1080, with real licensed source images.
 - [Light and Time](films/light-and-time-archive/README.md): completed 30-second Mandarin parchment/loupe film based on the supplied visual direction.
 - [Original Brick Toy storyboard](films/light-and-time/TREATMENT.md): draft source retained before the style change.
 
-Project folders include code, local image/font assets, voice WAVs, subtitles, source/credit records and validation reports. Each completed project includes `build.sh`; run it from the prepared toolkit environment. Model weights, installed dependencies, generated intermediate frames, rendered videos and source ZIP exports are excluded. Download finished videos separately from the cloud environment.
+Project folders include code, local image/font assets, voice WAVs, subtitles, source/credit records and validation reports. Each completed project includes `build.sh`; run it from the prepared toolkit environment. Model weights, installed dependencies, generated intermediate frames and source ZIP exports are excluded from project folders. Compact finished videos are stored under `exports/` when a browser-downloadable GitHub copy is needed.
 
 The toolkit normally ignores `/films/`. These existing project source files are explicitly tracked; their later edits are tracked normally. To add a *new* film project here, explicitly add its chosen source/assets with `git add -f`, keeping large renders, models and dependencies out.
 

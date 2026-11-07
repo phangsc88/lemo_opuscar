@@ -1,0 +1,20 @@
+SOULQUAKE｜谁才是真正的王？
+90-second Stained Glass edition · 1920×1080 · 24 fps
+
+SCRIPT
+Chinese narration, scripture quotations, title and sign-off supplied by the user. English translations authored for the earlier approved edition, reused in this edition. References and interpretation notes in FACTS.md. No named English Bible translation is claimed.
+
+VISUALS
+Original five-bay fictional stained-glass window, characters, rose, royal thrones, cross, empty tomb, light path, camera and lettering authored for this film. The depiction is symbolic Christian art, not an extant historical window, portrait, or footage. The supplied script expressly requires Christian imagery.
+The procedural glass piece/lead/texture and WebGL compositor helpers were copied and adapted from lemomo-ai/lemo-opuscar, styles/stained-glass/demo/glass.js and comp.js, MIT. No demo character, story, window design, shots or score was copied. Toolkit: https://github.com/lemomo-ai/lemo-opuscar .
+
+VOICE
+Retained Mandarin narration: Microsoft Edge neural speech zh-CN-YunxiNeural. The English brand name in the last line uses en-US-GuyNeural. Generated using edge-tts and the service's applicable terms; no claim of CC0 voice rights. No private-person voice cloning. Retained WAVs permit offline reassembly.
+
+MUSIC AND SOUND
+New original D Dorian 72-BPM organ/harp/hand-chime soundtrack and procedural glass/lead/stone sounds, synthesized in mix.py. No stock song or sample pack was used in this version. The earlier Printed Long Take version's cello/pizzicato/horn score was not reused.
+
+FONT
+Noto Serif CJK, SIL Open Font License 1.1. Licence/copyright text in assets/FONT-LICENSE.txt.
+
+Lemo-Opuscar MIT licence text in assets/TOOLKIT-LICENSE.txt. This credits the toolkit helpers only; the user film has no LemoLab watermark.
