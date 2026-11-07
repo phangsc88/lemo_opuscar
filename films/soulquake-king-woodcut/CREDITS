@@ -1,0 +1,20 @@
+SOULQUAKE｜谁才是真正的王？
+90-second Woodcut Print edition · 1920×1080 · 24 fps
+
+SCRIPT
+Chinese narration, scripture quotations, programme title and sign-off supplied by the user. English captions authored for the earlier approved edition and retained here. Scripture references and interpretation notes: FACTS.md. No named English Bible translation is claimed.
+
+VISUALS
+Original seven-plate relief-print story, crown, gates, thrones, symbolic figures, covenant seal, cross, empty tomb, camera and typography authored for this film. No historical image, existing woodcut plate, portrait, logo or film shot is used. The film is symbolic art and does not claim an extant historical print.
+Woodcut carving/print compositor helpers in engine/ and the paper curl helper trans.js are adapted from lemomo-ai/lemo-opuscar, styles/woodcut/demo, MIT. The demo's bell-founder story, cast, props, plate design, shots and score were not copied. Toolkit: https://github.com/lemomo-ai/lemo-opuscar .
+
+VOICE
+Mandarin narration: Microsoft Edge neural speech, zh-CN-YunxiNeural. The English programme name in the final line uses en-US-GuyNeural. Synthesized with edge-tts; no private-person voice cloning. Service-generated voice is not claimed CC0. Retained WAVs permit offline reassembly.
+
+MUSIC AND SOUND
+New original 72 BPM D-Dorian low-string score using VS Chamber Orchestra: Community Edition cello and pizzicato contrabass samples, CC0 1.0, https://vis.versilstudios.com/vsco-community.html . No stock tune or identifiable existing melody. Knife, wood fibres, chips, brayer tack, baren rasp, paper air, wet peel, block strikes and modal metal sounds are procedural. Exact bundled sample notices are in SAMPLE-CREDITS.txt.
+
+FONT
+Noto Serif CJK, SIL Open Font License 1.1. Copyright and licence text in assets/FONT-LICENSE.txt.
+
+Toolkit MIT licence text is retained in assets/TOOLKIT-LICENSE.txt. The film has no LemoLab watermark.

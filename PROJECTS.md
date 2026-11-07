@@ -4,6 +4,7 @@ This repository imports the Lemo-Opuscar toolkit from [lemomo-ai/lemo-opuscar](h
 
 ## Our film source
 
+- [SoulQuake Episode 0 — Woodcut Print](films/soulquake-king-woodcut/README.md): completed 90-second Mandarin relief-print film, 1920×1080, with bilingual captions and an original low-string/wood score.
 - [SoulQuake Episode 0 — Stained Glass](films/soulquake-king-glass/README.md): completed 90-second Mandarin stained-glass film, 1920×1080, with bilingual captions and an original organ/glass score.
 - [Artemis newsreel](films/artemis-newsreel/README.md): completed 30-second Mandarin newsreel, 1920×1080, with real licensed source images.
 - [Light and Time](films/light-and-time-archive/README.md): completed 30-second Mandarin parchment/loupe film based on the supplied visual direction.
