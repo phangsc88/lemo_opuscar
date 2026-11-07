@@ -1,0 +1,21 @@
+ARTEMIS AT EPHESUS / 以弗所亚底米神庙
+30-second 1920s-inspired newsreel, 1920×1080 at 24fps, Mandarin narration.
+
+USED IMAGES
+1. Antonio Tempesta, Temple of Diana at Ephesus under construction, 1608; publisher Johannes Baptista Vrints I; Rijksmuseum object RP-P-H-OB-44.044. CC0, https://creativecommons.org/publicdomain/zero/1.0/ . Historic imaginative depiction, not a scientifically verified reconstruction and not camera footage of an intact ancient temple. Used around 2.4–7.2, 10.8–18.0 seconds (including date-card background).
+Source: https://commons.wikimedia.org/wiki/File:Tempel_van_Diana_in_Efeze_Septem_orbis_admiranda_(serietitel)_De_zeven_wereldwonderen_(serietitel),_RP-P-H-OB-44.044.jpg
+2. Giovanni Battista Borra, Plan of the Temple of Artemis at Ephesus, 1750; Yale Center for British Art, B1977.14.926. CC0, https://creativecommons.org/publicdomain/zero/1.0/ . Historical plan, not a current measured reconstruction or a nineteenth-century excavation record. Used 7.2–10.8 and 18.0–22.8 seconds, explicitly dated.
+Museum record: https://collections.britishart.yale.edu/catalog/tms:27007
+Source: https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Borra_-_Plan_of_the_Temple_of_Artemis_at_Ephesus_-_B1977.14.926_-_Yale_Center_for_British_Art.jpg
+3. LWYang, Temple of Artemis, photographed 1 December 2012. CC BY 2.0, https://creativecommons.org/licenses/by/2.0/ . Source: https://www.flickr.com/photos/86688834@N00/8248365786 ; https://commons.wikimedia.org/wiki/File:Temple_of_Artemis2.jpg . Used 22.8–27.6 seconds. Modifications: cropped, rescaled, converted to monochrome, silver projection grade and grain, captions and motion. Not 1920s footage. Photographer and licence are credited on screen; this file supplies the source and licence links. No endorsement implied.
+
+VOICE / MUSIC / PACKAGING
+Kokoro v1.0 local Mandarin voice zm_yunxi, speed 1.08, Misaki Chinese phonemes. Kokoro model Apache 2.0; https://github.com/thewh1teagle/kokoro-onnx ; https://huggingface.co/hexgrad/Kokoro-82M ; https://github.com/hexgrad/misaki . No personal voice imitation.
+Original procedural hot-band-like synthesized score at 200BPM, with tuba-like bass, brass fanfare/melody, banjo-like plucks, snare and original projector/paper sounds. No period recording, existing tune or stock music sample used.
+Ident, searchlights, wire globe, frames, transitions and overlays: original code. No real broadcaster name or mark is used. No generated archive imagery or invented archival newspaper is used.
+Fonts: Noto Serif CJK and Noto Sans CJK, SIL Open Font License 1.1, https://github.com/notofonts/noto-cjk .
+Rendering/mastering: shared Lemo-Opuscar utilities, MIT, https://github.com/lemomo-ai/lemo-opuscar .
+ASR quality check: SenseVoice Small int8 via sherpa-onnx, official k2-fsa model release, used for checks only. Not embedded in the film/source bundle.
+Facts and wording: FACTS.md. Machine-readable rights/source metadata: SOURCES.json and engraving-hi-metadata.json.
+
+Source material is used under the licences documented above. Review these credits when redistributing; the user remains responsible for their intended use and any additional materials they supply.

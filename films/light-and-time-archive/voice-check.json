@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "expected": "纸塔游戏提醒我们：忙碌，不等于做好重要的事。",
+    "recognized": "直塔游戏提醒我们忙碌不等于做好重要的事",
+    "similarity": 0.9473684210526315,
+    "pass": true
+  },
+  {
+    "id": "2",
+    "expected": "谁来决定，时间该花在哪里？",
+    "recognized": "谁来决定时间该花在哪里",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "3",
+    "expected": "基督已经救赎我们，使我们成为光明的子女。",
+    "recognized": "基督已经救赎我们使我们成为光明的子女",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "4",
+    "expected": "所以，要明白主的旨意，爱惜光阴。",
+    "recognized": "所以要明白主的旨意爱惜光阴",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "5",
+    "expected": "靠着圣灵，学习爱神、爱人。",
+    "recognized": "靠着圣灵学习爱神爱人",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "6",
+    "expected": "主啊，帮助我，把时间用在你所喜悦的事上。",
+    "recognized": "朱啊帮助我把时间用在你所喜悦的事上",
+    "similarity": 0.9411764705882353,
+    "pass": true
+  }
+]

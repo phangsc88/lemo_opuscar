@@ -1,0 +1,20 @@
+{
+  "duration": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 720,
+  "video": "H.264",
+  "audio": "AAC",
+  "integrated_loudness_LUFS": -14.3,
+  "true_peak_dBTP": -1.4,
+  "black_intervals": 0,
+  "standalone_asr_passed": 6,
+  "final_mix_asr_passed": 6,
+  "asr_threshold": 0.92,
+  "subtitles": "six cues, no overlap, each held longer than speech + 0.6s",
+  "visuals": "real 1608 engraving, 1750 plan, 2012 remains photograph; all labelled",
+  "archive_access": "verified working after unrestricted network setting applied"
+}

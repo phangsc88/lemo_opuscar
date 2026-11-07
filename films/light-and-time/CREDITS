@@ -1,0 +1,8 @@
+Storyboard v1: 把时间用在光中
+Script: condensed from the sermon supplied by the user; 88 Mandarin characters excluding punctuation.
+Original scene layouts, block-built characters and props: created for this project.
+Brick geometry/material helper: lemomo-ai/lemo-opuscar, styles/brick-toy/demo/bricks.js, MIT. Shared post-processing: core/three/post.js, MIT.
+Three.js: MIT, https://github.com/mrdoob/three.js . Procedural RoomEnvironment supplied by Three.js.
+Font: system Noto Sans CJK, SIL Open Font License, https://github.com/notofonts/noto-cjk .
+Desk grain: procedural drawing, no downloaded photographic assets.
+No narration, music or final animated film has been produced at storyboard stage.

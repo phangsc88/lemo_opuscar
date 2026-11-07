@@ -1,0 +1,19 @@
+{
+  "duration_seconds": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 720,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "integrated_loudness_LUFS": -13.9,
+  "true_peak_dBTP": -6.0,
+  "black_frames_detected": false,
+  "voice_engine": "Kokoro local Mandarin zf_xiaoxiao",
+  "voice_asr": "SenseVoice int8, six sentences pass >=0.92; four exact, two near-homophone substitutions",
+  "source_visual": "Recreated parchment plate based on supplied image and approved storyboard, exact text typeset in code",
+  "network_required_for_rebuild": false,
+  "final_mix_asr": "6/6 segments pass >=0.92; 5 exact transcriptions, 1 near-homophone substitution"
+}

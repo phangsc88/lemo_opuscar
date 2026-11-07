@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "recognized": "直塔游戏提醒我们忙碌不等于做好重要的事",
+    "similarity": 0.9473684210526315,
+    "pass": true
+  },
+  {
+    "id": "2",
+    "recognized": "谁来决定时间该花在哪里",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "3",
+    "recognized": "基督已经救赎我们使我们成为光明的子女",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "4",
+    "recognized": "所以要明白主的旨意爱惜光阴",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "5",
+    "recognized": "靠着圣灵学习爱神爱人",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "6",
+    "recognized": "主啊帮助我把时间用在你所喜悦的事上",
+    "similarity": 1.0,
+    "pass": true
+  }
+]

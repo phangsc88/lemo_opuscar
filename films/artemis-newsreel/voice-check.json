@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "expected": "特别快讯！这座神庙，位列古代七大奇观！",
+    "recognized": "特别快讯这座神庙位列古代七大奇观",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "2",
+    "expected": "宏伟的神庙，吸引地中海各地的朝圣者。",
+    "recognized": "宏伟的神庙吸引地中海各地的朝圣者",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "3",
+    "expected": "公元前三百五十六年，神庙遭火焚毁。",
+    "recognized": "公元前三百五十六年神庙遭火焚毁",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "4",
+    "expected": "当地人重建神庙，规模更胜从前！",
+    "recognized": "当地人重建神庙规模更胜从前",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "5",
+    "expected": "十九世纪，考古学家重新发现神庙遗迹。",
+    "recognized": "十九世纪考古学家重新发现神庙遗迹",
+    "similarity": 1.0,
+    "pass": true
+  },
+  {
+    "id": "6",
+    "expected": "今天，遗迹尚存，历史的故事仍在继续！",
+    "recognized": "今天一迹尚存历史的故事仍在继续",
+    "similarity": 0.9333333333333333,
+    "pass": true
+  }
+]

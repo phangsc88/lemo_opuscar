@@ -1,0 +1,23 @@
+把时间用在光中 / Light and Time
+30-second Mandarin devotional film, commissioned by the user.
+
+TEXT
+Sermon and scripture-art reference supplied by the user in this conversation. Narration is an 88-character condensed adaptation. Scripture displayed: Ephesians 5:15–17, wording supplied in user's image. Narration also reflects the user's discussion of Ephesians 5:8 and 5:18; it is not presented as a verbatim reading of the scroll.
+
+VISUALS
+Warm parchment production plate: generated with OpenAI image-generation tool from the supplied visual direction and approved storyboard; blanked for accurate programmatic Chinese typesetting. The attached chat image was available as a visual reference, not as a readable original file on disk. Final film is a recreated composition, not a pixel-preserving edit of the original attachment.
+Canvas animation, camera, loupe, annotations and score: original work for this project. No historic manuscript, museum catalogue number or facsimile provenance is claimed. Archive Light Table camera grammar adapted at user's request to their supplied contemporary scroll graphic.
+Fonts: Noto Serif CJK and Noto Sans CJK, SIL Open Font License 1.1. https://github.com/notofonts/noto-cjk
+
+VOICE
+Kokoro v1.0 ONNX (zf_xiaoxiao Mandarin voice), local synthesis using Misaki Chinese grapheme-to-phoneme conversion; model Apache 2.0. https://github.com/thewh1teagle/kokoro-onnx ; https://huggingface.co/hexgrad/Kokoro-82M ; https://github.com/hexgrad/misaki . Chinese phonemes use the legacy frontend appropriate to v1.0, not the v1.1 phoneme alphabet.
+No cloned or impersonated personal voice.
+
+AUDIO
+Original procedurally synthesized restrained piano-like and glass tones, nine bars at 72 BPM; original glass-loupe clacks and light/room ambience. No stock recording or third-party music sample used.
+
+TOOLS
+Lemo-Opuscar shared rendering and mastering utilities: MIT, https://github.com/lemomo-ai/lemo-opuscar .
+ASR quality check: SenseVoice Small int8 via sherpa-onnx, downloaded from official k2-fsa GitHub release. https://github.com/k2-fsa/sherpa-onnx . This model is for checking only, not embedded in film or source ZIP.
+
+The supplied reference's original creator/licence was not identified. This credits file records actual provenance and does not establish rights in the supplied material. The user remains responsible for materials they supply and their intended distribution.
