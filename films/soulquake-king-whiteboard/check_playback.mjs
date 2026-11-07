@@ -1,0 +1,47 @@
+import http from 'node:http';
+import fs from 'node:fs';
+import { chromium } from 'playwright-core';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const here = path.dirname(fileURLToPath(import.meta.url));
+const file = process.argv[2] || path.join(here, 'soulquake-king-whiteboard.mp4');
+const size = fs.statSync(file).size;
+const srv = http.createServer((q, r) => {
+  if (q.url === '/') {
+    r.setHeader('Content-Type', 'text/html');
+    r.end('<video controls autoplay src="/film.mp4"></video>');
+    return;
+  }
+  if (q.url !== '/film.mp4') { r.writeHead(404); r.end(); return; }
+  let a = 0, b = size - 1;
+  if (q.headers.range) {
+    const m = /bytes=(\d+)-(\d*)/.exec(q.headers.range);
+    a = +m[1];
+    if (m[2]) b = Math.min(b, +m[2]);
+    r.statusCode = 206;
+    r.setHeader('Content-Range', `bytes ${a}-${b}/${size}`);
+  }
+  r.setHeader('Content-Type', 'video/mp4');
+  r.setHeader('Accept-Ranges', 'bytes');
+  r.setHeader('Content-Length', b-a+1);
+  fs.createReadStream(file, { start: a, end: b }).pipe(r);
+});
+await new Promise(resolve => srv.listen(0, '127.0.0.1', resolve));
+let browser;
+try {
+  browser = await chromium.launch({ executablePath: process.env.PLAYWRIGHT_CHROME || '/usr/bin/chromium', args: ['--autoplay-policy=no-user-gesture-required'] });
+  const page = await browser.newPage();
+  await page.goto(`http://127.0.0.1:${srv.address().port}`);
+  await page.waitForFunction(() => document.querySelector('video').ended, null, { timeout: 130000 });
+  const result = await page.evaluate(() => {
+    const v = document.querySelector('video');
+    return { ended: v.ended, width: v.videoWidth, height: v.videoHeight, duration: v.duration, error: v.error?.message ?? null,
+      frames: v.getVideoPlaybackQuality().totalVideoFrames, droppedFrames: v.getVideoPlaybackQuality().droppedVideoFrames };
+  });
+  console.log(result);
+  fs.writeFileSync(path.join(here, 'playback-check.json'), JSON.stringify(result, null, 2));
+} finally {
+  if (browser) await browser.close();
+  await new Promise(resolve => srv.close(resolve));
+}

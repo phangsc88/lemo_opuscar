@@ -1,0 +1,223 @@
+{
+  "method": "Tone-aware Pinyin comparison >=.92 and numeric token agreement, with named biblical-book spelling normalization. Raw independent ASR transcripts retained; phonetic pass is not an exact written-character transcription claim.",
+  "lines": [
+    {
+      "id": "1",
+      "expected": "为什么我们总希望有一个足够厉害的人，",
+      "recognized": "为什么我们总希望有一个足够厉害的人",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "2",
+      "expected": "来解决人生所有的问题？",
+      "recognized": "来解决人生所有的问题",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "3",
+      "expected": "一个好领袖、好老板，或理想伴侣。",
+      "recognized": "一个好领袖好老板或理想伴侣",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "4",
+      "expected": "我们以为，只要找到对的人，一切就会变好。",
+      "recognized": "我们以为只要找到对的人一切就会变好",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "5",
+      "expected": "以色列人也这样想。",
+      "recognized": "以色列人也这样想",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "6",
+      "expected": "他们要求一个王，像其他国家一样，",
+      "recognized": "他们要求一个王像其他国家一样",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "7",
+      "expected": "带领他们争战，给他们安全感。",
+      "recognized": "带领他们征战给他们安全感",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "8",
+      "expected": "但神在撒母耳记上八章七节说：",
+      "recognized": "蛋神在萨姆尔纪上八章七节说",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "9",
+      "expected": "因为他们不是厌弃你，",
+      "recognized": "因为他们不是厌弃你",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "10",
+      "expected": "乃是厌弃我，不要我作他们的王。",
+      "recognized": "乃是厌弃我不要我做他们的王",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "11",
+      "expected": "后来，扫罗成为王，却因不顺服而失败。",
+      "recognized": "后来扫罗成为王却因不顺负而失败",
+      "tone_syllable_similarity": 0.9333333333333333,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "12",
+      "expected": "神拣选大卫，但大卫同样犯罪。",
+      "recognized": "神简选大卫但大卫同样犯罪",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "13",
+      "expected": "这让我们看见：人的王再有能力，",
+      "recognized": "这让我们看见人的亡再有能力",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "14",
+      "expected": "也无法解决人心中的罪。",
+      "recognized": "也无法解决人心中的罪",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "15",
+      "expected": "然而，神没有放弃祂的计划。",
+      "recognized": "然而神没有放弃他的计划",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "16",
+      "expected": "祂在撒母耳记下七章十六节应许大卫：",
+      "recognized": "他在撒摩尔记下七章十六节英许到尉",
+      "tone_syllable_similarity": 0.9375,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "17",
+      "expected": "你的家和你的国必在我面前永远坚立。",
+      "recognized": "你的家和你的国币在我面前永远建立",
+      "tone_syllable_similarity": 0.9375,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "18",
+      "expected": "你的国位也必坚定，直到永远。",
+      "recognized": "你的国位也必坚定直到永远",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "19",
+      "expected": "这应许最终指向耶稣基督。",
+      "recognized": "这英许最终指向耶稣基督",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "20",
+      "expected": "祂是完全顺服、为罪人舍命，",
+      "recognized": "他是完全顺服为罪人舍命",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "21",
+      "expected": "从死里复活的永恒君王。",
+      "recognized": "从死里复活的永恒君王",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "22",
+      "expected": "所以，撒母耳记真正的问题不是：",
+      "recognized": "所以萨姆尔忌真正的问题不是",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "23",
+      "expected": "谁有能力领导我们？",
+      "recognized": "谁有能力领导我们",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "24",
+      "expected": "而是：谁真正值得我们一生信靠？",
+      "recognized": "而是谁真正值得我们一生信靠",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "25",
+      "expected": "你呢？你把生命的安全感放在谁身上？",
+      "recognized": "你呢你把生命的安全敢放在谁身上",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "26",
+      "expected": "这里是 SoulQuake，用圣经回应真实，",
+      "recognized": "这里是 soul quick 用圣经回应真实",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    },
+    {
+      "id": "27",
+      "expected": "用真道震撼灵魂。",
+      "recognized": "用真道震撼灵魂",
+      "tone_syllable_similarity": 1.0,
+      "numbers_match": true,
+      "phonetic_pass": true
+    }
+  ],
+  "phonetic_passes": 27,
+  "total": 27
+}

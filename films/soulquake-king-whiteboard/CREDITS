@@ -1,0 +1,20 @@
+SOULQUAKE｜谁才是真正的王？
+90-second Whiteboard Explainer edition · 1920×1080 · 24 fps
+
+SCRIPT
+Chinese narration, scripture quotations, programme title and sign-off supplied by the user. English captions authored for the earlier approved edition and retained here. Scripture references and interpretation notes: FACTS.md. No named English Bible translation is claimed.
+
+VISUALS
+Original crown-shaped board argument, question map, crowd, kings, heart, covenant line, cross, tomb, trust paths, magnets, eraser, camera and typography authored for this film. The film is symbolic art and does not claim a historical diagram or likeness.
+Whiteboard helpers in engine/wb.js are adapted from lemomo-ai/lemo-opuscar, styles/whiteboard/demo, MIT. The demo's lesson, board map, drawings, camera route and score were not copied. Toolkit: https://github.com/lemomo-ai/lemo-opuscar .
+
+VOICE
+Mandarin narration: Microsoft Edge neural speech, zh-CN-YunxiNeural. The English programme name in the final line uses en-US-GuyNeural. Synthesized with edge-tts; no private-person voice cloning. Service-generated voice is not claimed CC0. Retained WAVs permit offline reassembly.
+
+MUSIC AND SOUND
+New original 72 BPM clockwork score using VS Chamber Orchestra: Community Edition pizzicato contrabass samples, CC0 1.0, https://vis.versilstudios.com/vsco-community.html . No stock tune or identifiable existing melody. Wooden-bar tones, glassy signals, marker strokes, magnet clicks, eraser rub and room sound are procedural. Exact bundled sample notices are in SAMPLE-CREDITS.txt.
+
+FONTS
+Noto Serif CJK and EMS Tech, SIL Open Font License 1.1. Copyright and licence text in assets/FONT-LICENSE.txt and fonts/OFL-ArchitectsDaughter.txt.
+
+Toolkit MIT licence text is retained in assets/TOOLKIT-LICENSE.txt. The film has no LemoLab watermark.
