@@ -4,6 +4,7 @@ This repository imports the Lemo-Opuscar toolkit from [lemomo-ai/lemo-opuscar](h
 
 ## Our film source
 
+- [SoulQuake Episode 0 — Chalkboard](films/soulquake-king-chalkboard/README.md): completed 90-second Mandarin sliding-classroom-board film, 1920×1080 at 30 fps, with bilingual captions, real CC0 chalk foley and an original plucked/wood score.
 - [SoulQuake Episode 0 — Whiteboard Explainer](films/soulquake-king-whiteboard/README.md): completed 90-second Mandarin continuous-board film, 1920×1080, with bilingual captions and an original pizzicato/wood score.
 - [SoulQuake Episode 0 — Woodcut Print](films/soulquake-king-woodcut/README.md): completed 90-second Mandarin relief-print film, 1920×1080, with bilingual captions and an original low-string/wood score.
 - [SoulQuake Episode 0 — Stained Glass](films/soulquake-king-glass/README.md): completed 90-second Mandarin stained-glass film, 1920×1080, with bilingual captions and an original organ/glass score.

@@ -1,0 +1,28 @@
+SOULQUAKE｜谁才是真正的王？
+90-second Chalkboard edition · 1920×1080 · 30 fps
+
+SCRIPT
+Chinese narration, Scripture quotations, programme title and sign-off supplied by the user. English captions authored for the earlier approved edition and retained here. Scripture references and interpretation notes: FACTS.md. No named English Bible translation is claimed.
+
+VISUALS AND CHALK WRITING
+Original classroom equation, sliding-board lesson, crowd, kings, heart, covenant line, cross, tomb, trust correction, camera and typography authored for this film. The film is symbolic art and does not claim a historical diagram or likeness.
+Every Chinese character written on the board is centre-line stroke data in js/hz.js, authored in standard stroke order and checked against LXGW WenKai on the project’s glyph lab; no font outline is drawn on the board.
+Chalkboard helpers in js/ are adapted from lemomo-ai/lemo-opuscar, styles/chalkboard/demo, MIT. The demo’s Chinese-character lesson, writing, ancient forms, board design, camera route and score were not copied. Toolkit: https://github.com/lemomo-ai/lemo-opuscar .
+
+VOICE
+Mandarin narration: Microsoft Edge neural speech, zh-CN-YunxiNeural. The English programme name in the final line uses en-US-GuyNeural. Synthesized with edge-tts; no private-person voice cloning. Service-generated voice is not claimed CC0. Retained WAVs permit offline reassembly.
+
+CHALK SOUND
+Two recordings from Wikimedia Commons, cut into grains by tools/foley_lib.py and retained in foley/cc0:
+- “chalk-on-chalkboard” by fattirewhitey, Freesound 264944 / Commons “264944 chalk-on-chalkboard.wav” — CC0 1.0.
+- “Chalkboard-writing.ogg” by Tomproberts, Wikimedia Commons — CC0 1.0.
+No attribution-required recording is used in the delivered mix.
+
+MUSIC AND OTHER SOUND
+New original 72 BPM score using VS Chamber Orchestra: Community Edition pizzicato contrabass samples, CC0 1.0, https://vis.versilstudios.com/vsco-community.html . Guqin-like plucks and wooden-bar tones are procedural. The panel roll, felt wipe, room tone, distant bell and final chalk knock are procedural. Exact bundled sample notice: SAMPLE-CREDITS.txt.
+
+FONTS
+EMS Delight and EMS Casual Hand, derived from Delius and Covered By Your Grace and converted to SVG by Sheldon B. Michaels and Windell H. Oskay; SIL Open Font License 1.1, fonts/OFL-EMS.txt.
+LXGW WenKai v1.530, © LXGW, used for subtitles and the glyph check page; SIL Open Font License 1.1, fonts/OFL-LXGWWenKai.txt. The delivered subtitle face is the project subset fonts/wenkai-sub.woff2.
+
+Toolkit MIT licence text is retained in assets/TOOLKIT-LICENSE.txt. The film has no LemoLab watermark.

@@ -1,0 +1,25 @@
+{
+  "duration_seconds": 90.0,
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "video_frames": 2700,
+  "codec": "H.264 / AAC",
+  "download_bytes": 8398481,
+  "browser_playback": {
+    "ended": true,
+    "width": 1920,
+    "height": 1080,
+    "duration": 90,
+    "error": null,
+    "frames": 2700,
+    "droppedFrames": 0
+  },
+  "board_reading_blocks_passed": 17,
+  "board_reading_blocks": 17,
+  "narration_phonetic_passes": 27,
+  "narration_cues": 27,
+  "narration_check_note": "Tone-aware pronunciation and numeric-token check with retained raw ASR transcripts; the documented 你/泥 boundary confusion is normalized.",
+  "integrated_lufs": -14.45,
+  "true_peak_dbtp": -1.91,
+  "full_decode_errors": 0
+}
