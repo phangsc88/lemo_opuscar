@@ -1,0 +1,14 @@
+{
+  "duration": 90,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 2700,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "decode": "passed",
+  "sha256": "ba98514324ffb8c05800749c467e4f8c03137cf6d1235b907adb3a1ca0f0d88d",
+  "Chinese_lettering": "Complete LXGW WenKai glyphs, visually reviewed; primary board labels Chinese",
+  "narration": "Existing 27 Mandarin recordings retained; sound effects remixed",
+  "readcheck": "OK  opening            at 7.25s    8 chars  need 3.12s  got 6.75s  \"找对人就能安心？\"\nOK  israel             at 17.75s    3 chars  need 2.17s  got 13.25s  \"以色列\"\nOK  verse              at 24.75s    8 chars  need 2.81s  got 6.25s  \"撒母耳记上 8:7\"\nOK  saul               at 32.50s    2 chars  need 1.94s  got 2.75s  \"扫罗\"\nOK  david              at 36.50s    2 chars  need 1.94s  got 7.50s  \"大卫\"\nOK  sin                at 39.75s    1 chars  need 1.72s  got 4.25s  \"罪\"\nOK  promise            at 48.50s    2 chars  need 1.94s  got 11.50s  \"应许\"\nOK  covenant-ref       at 50.50s    5 chars  need 2.61s  got 11.00s  \"撒母耳记下\"\nOK  covenant-number    at 52.00s    4 chars  need 1.77s  got 9.50s  \"7:16\"\nOK  forever            at 57.25s    2 chars  need 1.94s  got 4.25s  \"永恒\"\nOK  christ             at 61.25s    2 chars  need 1.94s  got 9.75s  \"基督\"\nOK  eternal            at 68.50s    4 chars  need 2.39s  got 2.50s  \"永恒的王\"\nOK  question           at 75.75s    1 chars  need 1.57s  got 14.25s  \"？\"\nOK  trust              at 79.25s    5 chars  need 2.46s  got 10.75s  \"你信靠谁？\"\nOK  brand              at 83.75s    9 chars  need 2.10s  got 6.25s  \"SOULQUAKE\"\nOK  episode            at 85.50s    6 chars  need 2.83s  got 4.50s  \"撒母耳记概论\"\n"
+}
